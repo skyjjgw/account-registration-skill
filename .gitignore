@@ -1,0 +1,5 @@
+.env*
+*.log
+accounts.json
+results.jsonl
+__pycache__/
